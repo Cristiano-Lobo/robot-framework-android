@@ -4,7 +4,7 @@
 
 ## 🚀 Tecnologias ( Em desenvolvimento)
 
-- [Node.js] - plataforma de desenvolvimento
+- [] - plataforma de desenvolvimento
 - [Robot Framework] - framework de testes automatizados da Microsoft. Versão: 12.9.0
 - [Python] - linguagem de programação
 
